@@ -8,15 +8,15 @@ The meteorological variables included in this study are temperature, cloud type,
 
 One of the most important components of this research is the classification of data into four seasons: spring, summer, fall, and winter. This seasonal method enables a more sophisticated understanding of how weather patterns change throughout the year and how these changes correspond to larger climatic changes. It also gives a framework for evaluating data over time, allowing for an assessment of whether specific weather occurrences are growing more or less prominent.
 
-### 2.1 Data Collection
+### Data Collection
 
 The foundation of this study is built upon the collection of meteorological data from NSRDB: National Solar Radiation Database. This station provided a reliable and consistent source of data throughout the 24-year period under investigation. The data encompassed a wide range of meteorological variables, including temperature, cloud type, dew point, relative humidity, precipitable water, wind speed, and ultraviolet (UV) irradiation. These variables were carefully selected to offer a holistic view of weather behavior and trends.
 
-### 2.2 Data Analysis
+### Data Analysis
 
 The collected data was subjected to rigorous analysis to identify trends, anomalies, and patterns. Statistical techniques, such as time series analysis, were applied to assess short-term fluctuations and seasonal variations in the meteorological variables. Data was also categorized into four distinct seasons—spring, summer, fall, and winter—to facilitate a more granular examination of how weather patterns evolved throughout the year.
 
-### 2.3 Seasonal Classification
+### Seasonal Classification
 
 Seasonal classification played a pivotal role in this study, allowing for a nuanced understanding of weather patterns over time. Each season was characterized by specific meteorological features, including temperature ranges, cloud cover, and precipitation patterns. By segregating the data into seasons, the research aimed to uncover insights into how weather phenomena change throughout the year and their potential links to larger climatic shifts.
 
